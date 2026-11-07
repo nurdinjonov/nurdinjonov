@@ -1,5 +1,6 @@
-<h1 align="center">Salom, men Xojiakbar! 👋</h1>
-<h3 align="center">Software Engineering Student @ PDP University 🎓</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,24&height=180&section=header&text=Xojiakbar%20Nurdinjonov&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20PDP%20University&descAlignY=58&descSize=16" width="100%" alt="Header" />
+</p>
 
 <p align="center">
   Dasturiy ta'minot muhandisligi yo'nalishida ta'lim olmoqdaman. Asosiy e'tiborim <b>C#</b>, ma'lumotlar bazalari, algoritmlar va toza kod (clean code) yozishga qaratilgan.
@@ -45,8 +46,12 @@
 ### 📊 GitHub Faollik Statistikasi:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurdinjonov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Xojiakbar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurdinjonov&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nurdinjonov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Xojiakbar's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nurdinjonov&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nurdinjonov&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
